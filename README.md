@@ -53,10 +53,8 @@ The dataset includes:
 
 ## 📷 Dashboard Preview  
 
-### 🔹 Sales Overview Page  
-![Dashboard Screenshot](C:\Users\Anudip\Pictures\Screenshot)  
-
-
+### 🔹 Sales Overview Path
+<img width="908" height="415" alt="Screenshot 2025-07-03 104103" src="https://github.com/user-attachments/assets/31b26db6-1042-4dff-8d0e-f6063cba0ff5" />
 *(Add your actual screenshot inside a `screenshots/` folder in the repo and update the file name above.)*  
 
 ---
