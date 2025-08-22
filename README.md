@@ -54,7 +54,8 @@ The dataset includes:
 ## 📷 Dashboard Preview  
 
 ### 🔹 Sales Overview Page  
-![Dashboard Screenshot](C:\Users\Anudip\Pictures\Screenshot 2025-07-03 104103.png)  
+![Dashboard Screenshot](C:\Users\Anudip\Pictures\Screenshot)  
+
 
 *(Add your actual screenshot inside a `screenshots/` folder in the repo and update the file name above.)*  
 
